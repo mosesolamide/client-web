@@ -20,11 +20,11 @@ export default function OpenGraphImage() {
       }}
     >
       <div style={{ display: "flex", alignItems: "center", gap: "20px" }}>
-        <div style={{ width: "62px", height: "62px", display: "flex", alignItems: "center", justifyContent: "center", borderRadius: "8px", color: "#211047", background: "#c7ed56", fontSize: "34px", fontWeight: 800 }}>T</div>
+        <div style={{ width: "62px", height: "62px", display: "flex", alignItems: "center", justifyContent: "center", borderRadius: "8px", color: "#211047", background: "#71B415", fontSize: "34px", fontWeight: 800 }}>T</div>
         <div style={{ fontSize: "34px", fontWeight: 800 }}>TCMS LIMITED</div>
       </div>
       <div style={{ maxWidth: "940px", display: "flex", flexDirection: "column" }}>
-        <div style={{ color: "#c7ed56", fontSize: "24px", fontWeight: 700, letterSpacing: "3px", textTransform: "uppercase" }}>Trade &amp; Consumer Marketing</div>
+        <div style={{ color: "#71B415", fontSize: "24px", fontWeight: 700, letterSpacing: "3px", textTransform: "uppercase" }}>Trade &amp; Consumer Marketing</div>
         <div style={{ marginTop: "22px", fontSize: "68px", fontWeight: 650, lineHeight: 1.05, letterSpacing: "-3px" }}>Turning market opportunity into measurable growth.</div>
       </div>
     </div>,
