@@ -1,0 +1,3 @@
+<!DOCTYPE html>
+<html><head></head><body><h1 id="out">{"innerWidth":492,"clientWidth":492,"dpr":1}</h1><script>document.getElementById("out").innerText = JSON.stringify({innerWidth: window.innerWidth, clientWidth: document.documentElement.clientWidth, dpr: window.devicePixelRatio});</script>
+</body></html>

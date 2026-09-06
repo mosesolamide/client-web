@@ -1,0 +1,6 @@
+2026/09/06-02:53:11.238 5514 Reusing MANIFEST C:\Users\user\client-web\tmp\edge-cdp\Default\EdgeCoupons/coupons_data.db/MANIFEST-000001
+2026/09/06-02:53:11.240 5514 Recovering log #3
+2026/09/06-02:53:11.241 5514 Reusing old log C:\Users\user\client-web\tmp\edge-cdp\Default\EdgeCoupons/coupons_data.db/000003.log 
+2026/09/06-02:53:11.658 5d80 Level-0 table #5: started
+2026/09/06-02:53:11.667 5d80 Level-0 table #5: 683273 bytes OK
+2026/09/06-02:53:11.672 5d80 Delete type=0 #3
