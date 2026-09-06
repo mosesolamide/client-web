@@ -23,7 +23,7 @@ export const metadata: Metadata = {
   twitter: { card: "summary_large_image", title: "TCMS Limited", description: site.description },
 };
 
-export const viewport: Viewport = { width: "device-width", initialScale: 1, themeColor: "#211047" };
+export const viewport: Viewport = { width: "device-width", initialScale: 1, themeColor: "#841B82" };
 
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
   return (

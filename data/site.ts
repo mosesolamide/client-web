@@ -34,7 +34,7 @@ export const navigation = [
 export const services = [
   {
     title: "Marketing consulting",
-    short: "Clear market strategies built around your brand, customers, and growth goals.",
+    short: "Clear market strategies built around your brand, customers, and growth objective.",
     description:
       "We help teams turn market opportunities into focused trade and consumer plans, aligning strategy, channels, activation, and measurement.",
     outcomes: ["Go-to-market planning", "Channel strategy", "Campaign direction"],
@@ -42,41 +42,41 @@ export const services = [
   },
   {
     title: "Trade marketing",
-    short: "Stronger relationships and sharper execution across retail and distribution channels.",
+    short: "Stronger relationships and sharper execution across retail and trade channel.",
     description:
-      "From trade promotions to in-market execution, we help brands improve visibility, partner engagement, and performance where purchase decisions happen.",
+      "From trade promotions to in-market execution, we help brands to improve trade engagement, visibility and performance at point of purchase.",
     outcomes: ["Trade promotions", "Retail execution", "Channel engagement"],
     icon: Handshake,
   },
   {
     title: "Consumer activation",
-    short: "Human experiences that connect brands with the people they want to reach.",
+    short: "Human experiences that connect brands with the consumer they want to connect with.",
     description:
-      "We plan and deliver consumer-facing initiatives designed to build awareness, encourage trial, and create memorable brand interactions.",
+      "We plan and deliver consumer experiences and initiatives designed to build awareness, encourage trial, and create impactful brand interactions.",
     outcomes: ["Brand activation", "Product experiences", "Consumer engagement"],
     icon: Megaphone,
   },
   {
     title: "Territory development",
-    short: "Structured expansion into new territories, neighbourhoods, and trade networks.",
+    short: "Structured expansion into new territories, neighbourhoods, and trade channels.",
     description:
-      "We support brands as they assess, enter, and develop territories with coordinated field teams and market-aware execution.",
+      "We support as they assess, penetrate, and develop territories with coordinated field teams and in market awareness execution.",
     outcomes: ["Territory mapping", "Route-to-market support", "Field coordination"],
     icon: MapPinned,
   },
   {
-    title: "Distribution & logistics",
-    short: "Coordinated movement and market delivery that keeps campaigns on track.",
+    title: "Distribution",
+    short: "Coordinated Movement and market delivery that keeps campaigns on track at point of sales.",
     description:
-      "Our distribution support connects campaign plans to practical market delivery, helping materials and products reach the right locations.",
-    outcomes: ["Distribution management", "Activation logistics", "Market delivery"],
+      "Our distribution support connects campaign plans to practical market delivery, helping products to reach the right destination.",
+    outcomes: ["Distribution management", "Activation", "Market delivery"],
     icon: PackageCheck,
   },
   {
     title: "Research & audit services",
-    short: "Ground-level insight to understand markets, measure execution, and improve decisions.",
+    short: "Ground-level insight to understand markets, measure execution, And enable decision making.",
     description:
-      "We combine market research, field observation, and audits to give teams a clearer view of performance and opportunity.",
+      "We combine market research, field engagement, and retains audits to give teams a clearer view of opportunities.",
     outcomes: ["Market research", "Retail audits", "Performance insight"],
     icon: SearchCheck,
   },
@@ -90,7 +90,7 @@ export const values = [
   },
   {
     title: "Innovation",
-    description: "We use fresh thinking to create smarter, more effective solutions.",
+    description: " We use insightful thinking to create smarter, more effective solutions.",
     icon: Lightbulb,
   },
   {
@@ -100,7 +100,7 @@ export const values = [
   },
   {
     title: "Teamwork",
-    description: "We believe meaningful results come from close, open collaboration.",
+    description: "We believe meaningful results come through close, open collaboration.",
     icon: UsersRound,
   },
 ];

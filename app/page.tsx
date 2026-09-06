@@ -40,10 +40,10 @@ export default function Home() {
         </div>
         <div className="hero-overlay" />
         <div className="container hero-content">
-          <p className="hero-kicker"><span /> Trade &amp; consumer marketing across Nigeria</p>
+          <div className="hero-kicker"><span aria-hidden="true" /><span>Trade &amp; consumer marketing across Nigeria</span></div>
           <h1>Turning market opportunity into <em>measurable growth.</em></h1>
           <div className="hero-bottom">
-            <p>We help ambitious brands strengthen channels, engage consumers, and execute with confidence — from strategy to the street.</p>
+            <p>We help ambitious brands strengthen channels, engage consumers, and execute with confidence from strategy to the street.</p>
             <div className="hero-actions">
               <ButtonLink href="/contact" variant="light">Discuss your goals</ButtonLink>
               <Link className="text-link-light" href="/services">Explore our services <ArrowRight aria-hidden="true" size={17} /></Link>
@@ -73,7 +73,6 @@ export default function Home() {
             <div className="about-image-frame">
               <Image src="/images/about-team-fresh.png" alt="A collaborative TCMS team in Lagos" fill quality={90} sizes="(max-width: 900px) 100vw, 50vw" />
             </div>
-            <div className="image-caption"><span>Built for the realities of the market</span><span>Lagos, Nigeria</span></div>
           </div>
           <div className="about-copy">
             <SectionHeading eyebrow="About TCMS" title="Local market fluency. Long-term partnership." />
@@ -115,9 +114,9 @@ export default function Home() {
           </div>
           <ol className="process-list">
             <li><span>01</span><div><h3>Understand</h3><p>Get close to the business goal, audience, channel, and market reality.</p></div></li>
-            <li><span>02</span><div><h3>Design</h3><p>Shape a focused, practical plan with clear responsibilities and measures.</p></div></li>
+            <li><span>02</span><div><h3>Design</h3><p>Shape a focused, practical plan with clear responsibilities and deliverables.</p></div></li>
             <li><span>03</span><div><h3>Deliver</h3><p>Coordinate people, materials, distribution, and consumer touchpoints.</p></div></li>
-            <li><span>04</span><div><h3>Learn</h3><p>Review execution, gather insight, and identify the next improvement.</p></div></li>
+            <li><span>04</span><div><h3>Learn</h3><p>Review execution, gather insight, and identify the next possible action steps.</p></div></li>
           </ol>
         </div>
       </section>

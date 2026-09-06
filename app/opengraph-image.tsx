@@ -15,12 +15,12 @@ export default function OpenGraphImage() {
         justifyContent: "space-between",
         padding: "76px",
         color: "white",
-        background: "linear-gradient(125deg, #211047, #40136f)",
+        background: "linear-gradient(125deg, #5f145f, #841B82)",
         fontFamily: "sans-serif",
       }}
     >
       <div style={{ display: "flex", alignItems: "center", gap: "20px" }}>
-        <div style={{ width: "62px", height: "62px", display: "flex", alignItems: "center", justifyContent: "center", borderRadius: "8px", color: "#211047", background: "#71B415", fontSize: "34px", fontWeight: 800 }}>T</div>
+        <div style={{ width: "62px", height: "62px", display: "flex", alignItems: "center", justifyContent: "center", borderRadius: "8px", color: "#5f145f", background: "#71B415", fontSize: "34px", fontWeight: 800 }}>T</div>
         <div style={{ fontSize: "34px", fontWeight: 800 }}>TCMS LIMITED</div>
       </div>
       <div style={{ maxWidth: "940px", display: "flex", flexDirection: "column" }}>

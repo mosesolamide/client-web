@@ -18,7 +18,7 @@ export default function ProjectsPage() {
         <div className="container">
           <div className="split-heading">
             <SectionHeading eyebrow="Engagements" title="How our capabilities come together." />
-            <p>TCMS engagements flex by objective, geography, channel, and scale. These are the core ways we help teams turn plans into progress.</p>
+            <p>TCMS services by geography, channel, and scale. These are the core ways we help teams turn plans into progress.</p>
           </div>
           <div className="work-grid">
             {engagementTypes.map((item) => {
